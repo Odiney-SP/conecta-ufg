@@ -3,6 +3,14 @@
 Entrega do projeto da interface: o guia de estilo e o protótipo navegável, com
 os princípios e critérios de IHC indicados sobre as telas.
 
+## O documento
+
+[`PF2_Conecta_UFG.docx`](PF2_Conecta_UFG.docx) reune a Etapa 1 e a Etapa 2 num
+documento so, como pede a entrega final. As secoes 1 a 7 sao a Etapa 1. A secao
+8 e o guia de estilo, nas seis partes pedidas na disciplina. A secao 9 trata do
+prototipo: a ferramenta escolhida, o endereco e a indicacao dos principios e
+criterios sobre as telas.
+
 ## O protótipo
 
 **[▶ Abrir](https://odiney-sp.github.io/conecta-ufg/)**

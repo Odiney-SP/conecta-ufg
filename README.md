@@ -61,6 +61,7 @@ Orientação: **Profa. Luciana de Oliveira Berreta**
 
 | O que | Onde |
 |---|---|
+| Documento da PF2, com a PF1 junto | [`PF2_Conecta_UFG.docx`](02-PF2-Guia-de-estilo-e-prototipo/PF2_Conecta_UFG.docx) |
 | Protótipo navegável, no ar | **[odiney-sp.github.io/conecta-ufg](https://odiney-sp.github.io/conecta-ufg/)** |
 | Fonte do protótipo | [`prototipo/conecta-ufg.html`](02-PF2-Guia-de-estilo-e-prototipo/prototipo/conecta-ufg.html) |
 | Telas com os princípios indicados | [`prints/`](02-PF2-Guia-de-estilo-e-prototipo/prints/) |

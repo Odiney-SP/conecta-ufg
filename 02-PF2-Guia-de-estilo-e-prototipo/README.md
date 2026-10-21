@@ -15,9 +15,10 @@ criterios sobre as telas.
 
 **[▶ Abrir](https://odiney-sp.github.io/conecta-ufg/)**
 
-A fonte está em [`prototipo/conecta-ufg.html`](prototipo/conecta-ufg.html).
-É um arquivo único, em HTML, CSS e JavaScript, sem dependência de servidor nem
-de instalação.
+A fonte é [`docs/index.html`](../docs/index.html), na raiz do repositório. É um
+arquivo único, em HTML, CSS e JavaScript, sem dependência de servidor nem de
+instalação, e é exatamente o mesmo arquivo que o GitHub Pages publica. Mantido
+em um lugar só para não haver duas versões divergindo.
 
 ### Ferramenta escolhida
 

@@ -63,7 +63,7 @@ Orientação: **Profa. Luciana de Oliveira Berreta**
 |---|---|
 | Documento da PF2, com a PF1 junto | [`PF2_Conecta_UFG.docx`](02-PF2-Guia-de-estilo-e-prototipo/PF2_Conecta_UFG.docx) |
 | Protótipo navegável, no ar | **[odiney-sp.github.io/conecta-ufg](https://odiney-sp.github.io/conecta-ufg/)** |
-| Fonte do protótipo | [`prototipo/conecta-ufg.html`](02-PF2-Guia-de-estilo-e-prototipo/prototipo/conecta-ufg.html) |
+| Fonte do protótipo | [`docs/index.html`](docs/index.html) |
 | Telas com os princípios indicados | [`prints/`](02-PF2-Guia-de-estilo-e-prototipo/prints/) |
 | Identidade visual e tokens | [`identidade-visual/`](02-PF2-Guia-de-estilo-e-prototipo/identidade-visual/) |
 
@@ -74,6 +74,13 @@ Orientação: **Profa. Luciana de Oliveira Berreta**
 ### Etapa 4 — Entrega final
 
 [`04-PF4-Entrega-final/`](04-PF4-Entrega-final/) · ainda não entregue
+
+## Organização das pastas
+
+| Pasta | O que é |
+|---|---|
+| `01-PF1-Projeto` a `04-PF4-Entrega-final` | Uma pasta por etapa de entrega, com o que aquela etapa pede |
+| `docs` | **O protótipo publicado.** É daqui que o GitHub Pages serve o endereço acima. Não apagar: o link sai do ar junto |
 
 ## Como ver o protótipo
 

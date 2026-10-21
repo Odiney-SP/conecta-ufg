@@ -7,7 +7,7 @@
 Projeto Final da disciplina de **Interação Humano-Computador**
 Instituto de Informática · Universidade Federal de Goiás
 
-**[▶ Abrir o protótipo navegável](https://conecta-ufg.github.io/)**
+**[▶ Abrir o protótipo navegável](https://conecta-ufg.github.io/conecta-ufg/)**
 
 </div>
 
@@ -62,7 +62,7 @@ Orientação: **Profa. Luciana de Oliveira Berreta**
 | O que | Onde |
 |---|---|
 | Documento da PF2, com a PF1 junto | [`PF2_Conecta_UFG.docx`](02-PF2-Guia-de-estilo-e-prototipo/PF2_Conecta_UFG.docx) |
-| Protótipo navegável, no ar | **[conecta-ufg.github.io](https://conecta-ufg.github.io/)** |
+| Protótipo navegável, no ar | **[conecta-ufg.github.io](https://conecta-ufg.github.io/conecta-ufg/)** |
 | Fonte do protótipo | [`docs/index.html`](docs/index.html) |
 | Telas com os princípios indicados | [`prints/`](02-PF2-Guia-de-estilo-e-prototipo/prints/) |
 | Identidade visual e tokens | [`identidade-visual/`](02-PF2-Guia-de-estilo-e-prototipo/identidade-visual/) |
@@ -84,7 +84,7 @@ Orientação: **Profa. Luciana de Oliveira Berreta**
 
 ## Como ver o protótipo
 
-Abra **[conecta-ufg.github.io](https://conecta-ufg.github.io/)**.
+Abra **[conecta-ufg.github.io](https://conecta-ufg.github.io/conecta-ufg/)**.
 Roda em qualquer navegador, sem instalar nada.
 
 Dois detalhes que ajudam na correção:

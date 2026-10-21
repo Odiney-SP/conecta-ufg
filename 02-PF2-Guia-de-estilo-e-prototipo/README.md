@@ -13,7 +13,7 @@ criterios sobre as telas.
 
 ## O protótipo
 
-**[▶ Abrir](https://conecta-ufg.github.io/)**
+**[▶ Abrir](https://conecta-ufg.github.io/conecta-ufg/)**
 
 A fonte é [`docs/index.html`](../docs/index.html), na raiz do repositório. É um
 arquivo único, em HTML, CSS e JavaScript, sem dependência de servidor nem de
